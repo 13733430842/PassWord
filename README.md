@@ -35,3 +35,4 @@ public static void main(String[] args) {
 	}
 
 ```
+## [新增随机秘钥的加密系统](https://github.com/ZhangHeng0805/PassWordSystem)
